@@ -19,3 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Kate020-cpu&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Learning one step at a time.
